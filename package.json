@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap-breakpoints-js",
+  "version": "0.0.1",
+  "description": "Show actual bootstrap breakpoint name",
+  "main": "bootstrap-breakpoints.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tnifey/bootstrap-breakpoints-js.git"
+  },
+  "author": {
+    "name": "Tnifey",
+    "url": "https://github.com/tnifey"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tnifey/bootstrap-breakpoints-js/issues"
+  },
+  "homepage": "https://github.com/Tnifey/bootstrap-breakpoints-js#readme"
+}
